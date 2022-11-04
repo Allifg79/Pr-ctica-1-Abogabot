@@ -2,7 +2,10 @@
 
 Práctica 1: Abogabot
 
+
 Requerimientos
+
+
 Descripción del problema:
 
 Abogabot es un despacho de abogados, que necesitan actualizar la captura de demandas de sus clientes.
@@ -11,6 +14,8 @@ Abogabot es un despacho de abogados, que necesitan actualizar la captura de dema
 •	Se necesita una página web – responsive. 
 
 Objetivo: automatizar las demandas de los clientes.
+
+
 Requisitos funcionales:
 
 1.	Usuario:
@@ -64,10 +69,12 @@ Buyer persona:
 <img width="1440" alt="Buyer persona2" src="https://user-images.githubusercontent.com/114434660/199873363-ed42cf8c-0009-46d1-8786-feee44783474.png">
 
 Público objetivo:
+
 <img width="1440" alt="publico-objetivo" src="https://user-images.githubusercontent.com/114434660/199873616-e9f39ce1-8730-4363-9ce0-a9009b2b91c6.png">
 
 
 Wireframe UX:
+
 ![Abogabot - Wireframe](https://user-images.githubusercontent.com/114434660/199873681-5eea28c3-6c4c-439a-85d1-d180b3e6a0d6.jpg)
 
 Aquí se encuentra la liga de wireframe en Miro:
