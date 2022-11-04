@@ -64,3 +64,19 @@ Buyer persona:
 <img width="1440" alt="Buyer persona2" src="https://user-images.githubusercontent.com/114434660/199873363-ed42cf8c-0009-46d1-8786-feee44783474.png">
 
 Público objetivo:
+<img width="1440" alt="publico-objetivo" src="https://user-images.githubusercontent.com/114434660/199873616-e9f39ce1-8730-4363-9ce0-a9009b2b91c6.png">
+
+
+Wireframe UX:
+![Abogabot - Wireframe](https://user-images.githubusercontent.com/114434660/199873681-5eea28c3-6c4c-439a-85d1-d180b3e6a0d6.jpg)
+
+Aquí se encuentra la liga de wireframe en Miro:
+https://miro.com/app/board/uXjVPJvaW48=/
+
+
+
+El UI realizado en Figma:
+
+https://www.figma.com/proto/QVXuR6bvrQP1DBGgIktIQq/Abogabot?page-id=0%3A1&node-id=6%3A2&viewport=271%2C140%2C0.03&scaling=scale-down&starting-point-node-id=6%3A2&show-proto-sidebar=1
+
+
